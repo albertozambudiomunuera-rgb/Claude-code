@@ -1,0 +1,32 @@
+¿Basta con subir las guías en PDF a una IA para que responda bien?
+
+Spoiler: no.
+
+Junto a mi padre, Gerardo Zambudio (Urología Pediátrica, H. Virgen de la Arrixaca), montamos un evaluador con IA (RAG) sobre reflujo vesicoureteral pediátrico que solo puede responder con 12 guías y estudios clave.
+
+📄 Primera parte: ¿importa cómo le das los documentos?
+Mismo modelo, mismas instrucciones y 50 preguntas difíciles. Solo cambiamos el formato de las fuentes: PDF original o texto curado a mano.
+• Puntuación: 84 → 94 sobre 100
+• Respuestas correctas: 72 % → 88 %
+• A veces el dato estaba en el PDF… y la IA no lo encontraba.
+
+👩‍⚕️ Segunda parte: ¿expertos, IA o guía?
+11 casos controvertidos, respondidos por 30 urólogos pediátricos de la SIUP, por Open Evidence y por nuestro evaluador.
+Ni los expertos coincidían entre ellos.
+
+Ejemplo: primera ITU febril, ¿cuándo pido cistografía?
+Open Evidence respondió "si la ecografía es anormal". Correcto, pero incompleto: la guía también la indica en ITU atípica y otros factores de riesgo. Nuestro evaluador lo detectó.
+
+Y cuando la guía no da una respuesta única, una IA que dice "depende, y te explico de qué" saca peor nota en un test… pero es más honesta.
+
+Lo que me llevo:
+1️⃣ Antes de elegir modelo, piensa qué documentos le das y en qué formato.
+2️⃣ Coincidir con la mayoría no es lo mismo que acertar.
+
+Limitaciones: lo evaluamos nosotros y falta validación externa.
+
+Lo presentamos en el Congreso de la SIUP en Lima (7-10 de octubre). ¡Nos vemos allí! 🇵🇪
+
+Y sí: investigar con mi padre es de lo mejor que me ha dado la residencia.
+
+#UrologíaPediátrica #InteligenciaArtificial #RAG #SaludDigital
